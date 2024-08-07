@@ -1,4 +1,4 @@
-Framer University 3D Factory Built With Spline and Framer (No-Code) 
+Framer University 3D Factory Built With Spline and Framer 
 
 [LIVE DEMO](https://3dfactoryvyc.netlify.app)
 
